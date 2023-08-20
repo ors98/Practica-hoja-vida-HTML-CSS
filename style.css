@@ -1,0 +1,124 @@
+* {
+    padding: 0%;
+    margin: 0;
+}
+
+.contenedor {
+    background: #e585e5;
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.seccion-1 {
+    background-color: hwb(187 17% 2%);
+    width: 29%;
+}
+
+.imagen {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.contacto h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.contacto-1 {
+    display: flex;
+
+}
+
+.lista {
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+
+.fa-solid {
+    background-color: white;
+    width: 100px;
+    height: 45px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.fa-brands {
+    background-color: white;
+    width: 100px;
+    height: 45px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.contacto-2 {
+    display: flex;
+}
+
+.contacto-3 {
+    display: flex;
+}
+
+.contacto-4 {
+    display: flex;
+}
+
+.contacto-5 {
+    display: flex;
+}
+
+.habilidades {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.habilidad {
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.pasatiempos {
+    display: flex;
+}
+
+.seccion-2 {
+    background-color: hwb(307 82% 1%);
+    width: 70%;
+}
+
+.nombre {
+    padding-top: 10%;
+    width: 50%;
+    text-align: center;
+}
+
+h4 {
+    font-size: 50px;
+    padding-left: 70px;
+}
+
+h1 {
+    font-size: 80px;
+    color: blueviolet;
+}
+
+.contenido {
+    padding-left: 30px;
+    font-size: 20px;
+}
+
+.educacion {
+    font-size: 20px;
+    padding-left: 30px;
+}
